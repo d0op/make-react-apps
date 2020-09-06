@@ -5,8 +5,8 @@ export default function App() {
   return (
     <div className="app">
       <textarea />
-
       <div className="preview" />
+      lol
     </div>
   );
 }
